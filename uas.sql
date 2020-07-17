@@ -47,7 +47,7 @@ INSERT INTO `login` (`
 id`,
 `username
 `, `password`) VALUES
-('2016140251', 'fajar', 'admin');
+('2016140352', 'Feriyadi', 'admin');
 
 -- --------------------------------------------------------
 
